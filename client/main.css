@@ -1,0 +1,7 @@
+.strike {
+  text-decoration: line-through;
+}
+
+.completed {
+  color: #777;
+}
